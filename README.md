@@ -17,7 +17,7 @@
   - [Function & Recursion](#function--recursion)
   - [File Handling (I/O)](#file-handling-io)
   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-- [📊 Data Science & Web Scraping](#-data-science--web-scraping)
+- [📊 AI & Web Scraping](#-data-science--web-scraping)
   - [NumPy](#numpy)
   - [Pandas](#pandas)
   - [Matplotlib](#matplotlib)
@@ -151,9 +151,4 @@ This repository is an ongoing catalog of my personal growth in Python. However, 
 
 <div align="center">
   <p>Developed with ❤️ & ☕</p>
-  <p>
-    <a href="https://github.com/YourUsername">
-      <img src="https://img.shields.io/github/followers/YourUsername?label=Follow&style=social" alt="GitHub followers" />
-    </a>
-  </p>
-</div>
+ 
