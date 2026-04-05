@@ -218,24 +218,11 @@ pip install -r requirements.txt
 
 ## 🤝 Let's Connect (For Recruiters & Collaborators)
 
-I am actively seeking **Software Engineering**, **Data Analyst**, and **Python Developer** opportunities where I can leverage this skillset to build scalable and high-impact solutions.
+I am actively seeking **Software Engineering**, **AI Engineer**, and **Python Developer** opportunities where I can leverage this skillset to build scalable and high-impact solutions.
 
 If this repository resonated with you, I would love to connect and discuss potential synergies!
 
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YourProfile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+
 
 <br/>
 <div align="center">
