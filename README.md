@@ -1,154 +1,243 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <h1>🌟 Comprehensive Python Learning Journey 🌟</h1>
-  <p><i>A master repository documenting my progression from Python fundamentals to advanced Data Science and Web Scraping.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Python%20Mastery&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
----
+<div align="center">
+  <h1 align="center">🌟 Comprehensive Python & Data Science Journey</h1>
+  <p align="center">
+    <i>An industry-standard repository showcasing my progression from fundamental core logic to advanced data manipulation, engineering, and web scraping.</i>
+    <br/>
+    <b>Built for elegance, readability, and professional demonstration.</b>
+  </p>
 
-## 📖 Table of Contents
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge" />
+    <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=Google%20Analytics&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Algorithms" />
+  </p>
+</div>
 
-- [🐍 Core Python](#-core-python)
-  - [Variables & Data Types](#variables--data-types)
-  - [Strings & Conditional Statements](#strings--conditional-statements)
-  - [List & Tuple](#list--tuple)
-  - [Dictionary & Set](#dictionary--set)
-  - [Loops](#loops)
-  - [Function & Recursion](#function--recursion)
-  - [File Handling (I/O)](#file-handling-io)
-  - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-- [📊 AI & Web Scraping](#-data-science--web-scraping)
-  - [NumPy](#numpy)
-  - [Pandas](#pandas)
-  - [Matplotlib](#matplotlib)
-  - [Beautiful Soup 4 (BS4)](#beautiful-soup-4-bs4)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
+<hr/>
+
+## 📑 Table of Contents
+
+<div align="center">
+  <!-- Tab navigation style HTML Table -->
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <a href="#-core-python">
+          <img src="https://img.shields.io/badge/🐍_01-Core_Python-2b2b2b?style=for-the-badge" alt="Core Python"/><br>
+          <small>Types, Data Structures, OOP</small>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-data-science">
+          <img src="https://img.shields.io/badge/📊_02-Data_Science-2b2b2b?style=for-the-badge" alt="Data Science"/><br>
+          <small>NumPy, Pandas, Matplotlib</small>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-web-scraping">
+          <img src="https://img.shields.io/badge/🕷️_03-Web_Scraping-2b2b2b?style=for-the-badge" alt="Web Scraping"/><br>
+          <small>BeautifulSoup, DOM Parsing</small>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-getting-started">
+          <img src="https://img.shields.io/badge/🚀_04-Getting_Started-2b2b2b?style=for-the-badge" alt="Getting Started"/><br>
+          <small>Installation & Setup</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
 ## 🐍 Core Python
 
-This section covers the foundational building blocks of Python programming. All concepts are accompanied by practical code examples in their respective folders.
+This section outlines the foundational building blocks of my programming expertise. These concepts are implemented using clean, PEP-8 compliant code paradigms.
 
-### Variables & Data Types
-Understanding the basic building blocks of Python.
-- **Dynamic Typing:** Variables are created the moment you first assign a value to them.
-- **Primitives:** Integers (`int`), Floats (`float`), Strings (`str`), Booleans (`bool`), and Complex Numbers (`complex`).
-- **Type Casting:** Converting one data type to another seamlessly.
+<details open>
+<summary><b>🛠️ 1. Variables, Data Types & Control Flow</b></summary>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%">
+<b>Variables & Data Types</b><br/>
+Understanding primitive abstractions.
+<ul>
+  <li><b>Dynamic Typing:</b> Seamless memory allocation.</li>
+  <li><b>Primitives:</b> <code>int</code>, <code>float</code>, <code>str</code>, <code>bool</code>, <code>complex</code>.</li>
+  <li><b>Type Casting:</b> Robust data transformations.</li>
+</ul>
+</td>
+<td width="50%">
+<b>Strings & Conditionals</b><br/>
+Handling logic and character parsing.
+<ul>
+  <li><b>Strings:</b> Immutability, slicing natively, built-in methods (<code>.upper()</code>, <code>.replace()</code>).</li>
+  <li><b>Control Flow:</b> Branching logic with <code>if</code>, <code>elif</code>, <code>else</code> architectures.</li>
+</ul>
+</td>
+</tr>
+</table>
+</details>
 
-### Strings & Conditional Statements
-Manipulating text and making logical decisions in code.
-- **Strings:** Deep dive into immutability and powerful built-in methods (`.upper()`, `.split()`, `.replace()`).
-- **Slicing:** Accessing precise chunks of strings natively.
-- **Conditionals:** Mastering flow control with `if`, `elif`, and `else` statements.
+<details>
+<summary><b>📦 2. Data Structures (List, Tuple, Set, Dict)</b></summary>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%">
+<b>Arrays & Tuples</b>
+<ul>
+  <li><b>Lists:</b> Dynamic mutable arrays. Comprehensions, <code>.append()</code>, <code>.pop()</code>, <code>.sort()</code>.</li>
+  <li><b>Tuples:</b> Immutable references for memory-efficient constraints.</li>
+</ul>
+</td>
+<td width="50%">
+<b>Hash Maps & Sets</b>
+<ul>
+  <li><b>Dictionaries:</b> O(1) key-value hash maps. Data unpacking.</li>
+  <li><b>Sets:</b> Ensuring uniqueness, O(1) lookups, mathematical unions & intersections.</li>
+</ul>
+</td>
+</tr>
+</table>
+</details>
 
-### List & Tuple
-Working with ordered collections of data.
-- **Lists:** Python's dynamic, mutable arrays. Working with comprehensions and methods like `.append()`, `.pop()`, `.sort()`.
-- **Tuples:** Immutable, lightweight sequences optimized for data constraints.
+<details>
+<summary><b>⚙️ 3. Functions, Recursion, Loops & I/O</b></summary>
+<br/>
+<ul>
+  <li><b>Loops:</b> <code>For</code> & <code>While</code> iteration interfaces. Granular control using <code>break</code> & <code>continue</code>.</li>
+  <li><b>Functions & Recursion:</b> Scoping, <code>*args</code>/<code>**kwargs</code>, Lambda definitions. Designing elegant self-referential algorithms.</li>
+  <li><b>File Handling (I/O):</b> Interacting seamlessly with system storage via Context Managers (<code>with open()</code>).</li>
+</ul>
+</details>
 
-### Dictionary & Set
-Leveraging hash maps and mathematical sets.
-- **Dictionaries:** Extremely fast key-value storage. Unpacking, `.keys()`, `.values()`, `.items()`.
-- **Sets:** Unordered collections ensuring element uniqueness. Performing mathematical unions, intersections, and differences.
-
-### Loops
-Automating repetitive processes efficiently.
-- **For Loops:** Elegant iteration over any iterable object.
-- **While Loops:** Condition-based execution cycles.
-- **Loop Control:** Fine-tuning iterations using `break`, `continue`, and `pass`.
-
-### Function & Recursion
-Writing elegant, modular, and reusable code.
-- **Functions:** Scoping, positional and keyword arguments, and `*args`/`**kwargs`.
-- **Lambda:** Anonymous, inline functions for short operations.
-- **Recursion:** Solving complex problems by breaking them into smaller, self-referential steps.
-
-### File Handling (I/O)
-Interfacing with the underlying file system.
-- **Context Managers:** Safe file operations utilizing the `with` keyword.
-- **Read/Write Operations:** Text tracking (`r`, `w`, `a`), and handling binary formats (`rb`, `wb`).
-
-### Object-Oriented Programming (OOP)
-Structuring code around real-world conceptual entities.
-- **Classes & Objects:** Defining blueprints and instantiating memory entities.
-- **The Four Pillars:**
-  - **Encapsulation:** Protecting internal state using dunder methods and access modifiers.
-  - **Inheritance:** Deriving class characteristics cleanly (including Multiple Inheritance).
-  - **Polymorphism:** Overriding and standardizing complex behaviors.
-  - **Abstraction:** Exposing only the necessary interfaces using `abc`.
+<details open>
+<summary><b>🏛️ 4. Object-Oriented Programming (OOP)</b></summary>
+<br/>
+Demonstrating enterprise-level software design by modeling real-world abstractions.
+<ul>
+  <li><b>Encapsulation:</b> Shielding internal states using Dunder methods (<code>__init__</code>, <code>__repr__</code>) and access modifiers.</li>
+  <li><b>Inheritance:</b> Constructing robust hierarchical relationships (Single, Multiple, Level-based).</li>
+  <li><b>Polymorphism:</b> Overriding behaviors for scalable, dynamic component interactions.</li>
+  <li><b>Abstraction:</b> Crafting clear APIs utilizing the <code>abc</code> (Abstract Base Classes) module.</li>
+</ul>
+</details>
 
 ---
 
-## 📊 Data Science & Web Scraping
+## 📊 Data Science
 
-Transitioning from core logic to heavy data manipulation, analysis, and information extraction.
+Showcasing my ability to transition from raw logic into complex data engineering, manipulation, and analysis pipelines. I utilized industry-leading numerical computation and visualization frameworks.
 
-### NumPy
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-The absolute cornerstone of scientific computing in Python.
-- Understanding N-dimensional arrays (`ndarray`).
-- Powerful vectorization and array broadcasting.
-- Advanced mathematical operations and linear algebra at C-speeds.
+> <i>"Data is the new oil. It’s valuable, but if unrefined it cannot really be used." — Clive Humby</i>
 
-### Pandas
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-The industry standard for data analysis and structure manipulation.
-- Mastery of `Series` (1D) and `DataFrame` (2D) structures.
-- Data cleaning: Dealing with NaN, missing values, and duplicates.
-- High-level queries: Grouping, merging, pivoting, and aggregation over thousands of columns.
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/><br/> <br/>
+      <b>Quantitative Modeling</b><br/>
+      <small>N-dimensional array operations, C-speed matrix computations, vectorization, and broadcasting architectures.</small>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/><br/> <br/>
+      <b>Data Engineering</b><br/>
+      <small>Mastery over <code>DataFrames</code>. Aggregations, pivoting, cleaning NaNs, and handling massive datasets seamlessly.</small>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/><br/> <br/>
+      <b>Data Visualization</b><br/>
+      <small>Statistical chart rendering, highly customizable figures, scattered plots, and uncovering actionable deep insights.</small>
+    </td>
+  </tr>
+</table>
 
-### Matplotlib
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-Comprehensive plotting for static, animated, and interactive visualizations.
-- Creating pristine line plots, scatter graphs, histograms, and statistical charts.
-- Customizing figures, subplots, legends, and stylistic parameters.
-- Connecting directly with Pandas DataFrames to visualize relationships swiftly.
+---
 
-### Beautiful Soup 4 (BS4)
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python&logoColor=white" alt="Beautiful Soup"/>
-Elegant extraction of data straight from the web's DOM.
-- Parsing HTML/XML trees smoothly.
-- Finding specific tags, classes, and IDs out of messy webpages.
-- Creating automated web scrapers to gather dynamic datasets.
+## 🕷️ Web Scraping
+
+Automated extraction scripts designed to interface directly with unstructured web data (DOM) and transform it into highly structured, actionable JSON or CSV schemas.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BeautifulSoup_4-000000?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
+</div>
+<br/>
+
+- **DOM Parsing:** Elegantly navigating through the HTML tree and extracting robust data attributes.
+- **Data Targeting:** Precisely routing logic to specific classes, IDs, nested tags, and CSS Selectors.
+- **Automated Pipelines:** Developing efficient code models to crawl modern webpages and harvest critical datasets efficiently.
 
 ---
 
 ## 🚀 Getting Started
 
-To explore this repository and interact with the code structures:
+Deploy these components onto your local machine in seconds. Follow these professional best practices to execute the codebase properly.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
-   cd your-repo-name
-   ```
+### Prerequisites
+- Install **Python 3.8+**
+- Install **Git**
 
-2. **Create a virtual environment (Recommended):**
-   ```bash
-   python -m venv venv
-   # Depending on your OS, activate the environment:
-   # Windows
-   venv\Scripts\activate
-   # macOS/Linux
-   source venv/bin/activate
-   ```
+### Installation Steps
 
-3. **Install the required libraries:**
-   ```bash
-   pip install numpy pandas matplotlib beautifulsoup4 requests
-   ```
+**1. Clone the Source Repository**
+```bash
+git clone https://github.com/YourUsername/your-repo-name.git
+cd your-repo-name
+```
+
+**2. Establish an Isolated Virtual Environment (Highly Recommended)**
+```bash
+# Generate the virtual environment
+python -m venv venv
+
+# Activate it (Windows)
+.\venv\Scripts\activate
+
+# Activate it (macOS/Linux)
+source venv/bin/activate
+```
+
+**3. Install Core Dependencies**
+```bash
+pip install -r requirements.txt
+
+# Or install manually via pip:
+# pip install numpy pandas matplotlib beautifulsoup4 requests 
+```
 
 ---
 
-## 🤝 Contributing
+## 🤝 Let's Connect (For Recruiters & Collaborators)
 
-This repository is an ongoing catalog of my personal growth in Python. However, contributions such as architectural improvements, best-practice refactoring, or adding supplementary examples are warmly welcomed! Feel free to open an **Issue** or **Pull Request**.
+I am actively seeking **Software Engineering**, **Data Analyst**, and **Python Developer** opportunities where I can leverage this skillset to build scalable and high-impact solutions.
 
----
+If this repository resonated with you, I would love to connect and discuss potential synergies!
 
 <div align="center">
-  <p>Developed with ❤️ & ☕</p>
- 
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YourProfile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YourUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <p>Engineered with dedication, curiosity, and high standards. <br/> <b>© 2026. Designed for Excellence.</b></p>
+</div>
