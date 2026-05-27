@@ -20,7 +20,7 @@
 
 <hr/>
 
-## 📑 Table of Contents
+## 📑 Table of Contents :
 
 <div align="center">
   <!-- Tab navigation style HTML Table -->
