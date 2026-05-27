@@ -89,7 +89,7 @@ Handling logic and character parsing.
 </details>
 
 <details>
-<summary><b>📦 2. Data Structures (List, Tuple, Set, Dict)</b></summary>
+<summary><b>📦 2. Data Structures (List, Tuple, Set , Dict)</b></summary>
 <br/>
 <table width="100%">
 <tr>
