@@ -1,0 +1,11 @@
+a = [11,25,12,352,11,0,12,5,2688,45,12,1,352,12456,110,12,5,0,1,2,3,4,5,6,7,8,9]
+a.sort()
+print(a)
+a.append(10000)
+print(a)
+a.insert(10,6)
+print(a)
+a.insert(0,6)
+print(a)
+a.remove(10000)
+print(a)
