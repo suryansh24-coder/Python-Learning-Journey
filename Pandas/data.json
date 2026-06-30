@@ -1,0 +1,602 @@
+[
+  {
+    "Duration": 96,
+    "Pulse": 67,
+    "Maxpulse": 123,
+    "Calories": 581.6
+  },
+  {
+    "Duration": 50,
+    "Pulse": 75,
+    "Maxpulse": 148,
+    "Calories": 332
+  },
+  {
+    "Duration": 109,
+    "Pulse": 66,
+    "Maxpulse": 189,
+    "Calories": 1301.7
+  },
+  {
+    "Duration": 90,
+    "Pulse": 87,
+    "Maxpulse": 124,
+    "Calories": 286
+  },
+  {
+    "Duration": 26,
+    "Pulse": 73,
+    "Maxpulse": 149,
+    "Calories": 211.6
+  },
+  {
+    "Duration": 92,
+    "Pulse": 61,
+    "Maxpulse": 191,
+    "Calories": 1171
+  },
+  {
+    "Duration": 106,
+    "Pulse": 94,
+    "Maxpulse": 173,
+    "Calories": 815.4
+  },
+  {
+    "Duration": 72,
+    "Pulse": 97,
+    "Maxpulse": 155,
+    "Calories": 367.6
+  },
+  {
+    "Duration": 112,
+    "Pulse": 70,
+    "Maxpulse": 174,
+    "Calories": 1157.8
+  },
+  {
+    "Duration": 50,
+    "Pulse": 69,
+    "Maxpulse": 147,
+    "Calories": 437
+  },
+  {
+    "Duration": 58,
+    "Pulse": 66,
+    "Maxpulse": 131,
+    "Calories": 375
+  },
+  {
+    "Duration": 27,
+    "Pulse": 82,
+    "Maxpulse": 164,
+    "Calories": 248.4
+  },
+  {
+    "Duration": 48,
+    "Pulse": 62,
+    "Maxpulse": 178,
+    "Calories": 574.8
+  },
+  {
+    "Duration": 30,
+    "Pulse": 84,
+    "Maxpulse": 130,
+    "Calories": 158
+  },
+  {
+    "Duration": 52,
+    "Pulse": 100,
+    "Maxpulse": 199,
+    "Calories": 510.8
+  },
+  {
+    "Duration": 88,
+    "Pulse": 72,
+    "Maxpulse": 128,
+    "Calories": 447.8
+  },
+  {
+    "Duration": 99,
+    "Pulse": 74,
+    "Maxpulse": 157,
+    "Calories": 781.7
+  },
+  {
+    "Duration": 44,
+    "Pulse": 66,
+    "Maxpulse": 168,
+    "Calories": 433.8
+  },
+  {
+    "Duration": 73,
+    "Pulse": 100,
+    "Maxpulse": 166,
+    "Calories": 451.8
+  },
+  {
+    "Duration": 62,
+    "Pulse": 82,
+    "Maxpulse": 146,
+    "Calories": 431.8
+  },
+  {
+    "Duration": 49,
+    "Pulse": 64,
+    "Maxpulse": 197,
+    "Calories": 682.7
+  },
+  {
+    "Duration": 36,
+    "Pulse": 94,
+    "Maxpulse": 151,
+    "Calories": 175.2
+  },
+  {
+    "Duration": 74,
+    "Pulse": 84,
+    "Maxpulse": 154,
+    "Calories": 549
+  },
+  {
+    "Duration": 103,
+    "Pulse": 95,
+    "Maxpulse": 148,
+    "Calories": 582.9
+  },
+  {
+    "Duration": 56,
+    "Pulse": 63,
+    "Maxpulse": 149,
+    "Calories": 435.6
+  },
+  {
+    "Duration": 118,
+    "Pulse": 80,
+    "Maxpulse": 171,
+    "Calories": 1057.8
+  },
+  {
+    "Duration": 23,
+    "Pulse": 73,
+    "Maxpulse": 192,
+    "Calories": 314.7
+  },
+  {
+    "Duration": 55,
+    "Pulse": 73,
+    "Maxpulse": 183,
+    "Calories": 605
+  },
+  {
+    "Duration": 97,
+    "Pulse": 89,
+    "Maxpulse": 138,
+    "Calories": 458.3
+  },
+  {
+    "Duration": 32,
+    "Pulse": 75,
+    "Maxpulse": 191,
+    "Calories": 389.2
+  },
+  {
+    "Duration": 48,
+    "Pulse": 97,
+    "Maxpulse": 174,
+    "Calories": 393.6
+  },
+  {
+    "Duration": 66,
+    "Pulse": 83,
+    "Maxpulse": 148,
+    "Calories": 396
+  },
+  {
+    "Duration": 80,
+    "Pulse": 91,
+    "Maxpulse": 131,
+    "Calories": 366
+  },
+  {
+    "Duration": 21,
+    "Pulse": 67,
+    "Maxpulse": 139,
+    "Calories": 181.2
+  },
+  {
+    "Duration": 35,
+    "Pulse": 87,
+    "Maxpulse": 196,
+    "Calories": 339.5
+  },
+  {
+    "Duration": 64,
+    "Pulse": 84,
+    "Maxpulse": 196,
+    "Calories": 725.8
+  },
+  {
+    "Duration": 82,
+    "Pulse": 76,
+    "Maxpulse": 190,
+    "Calories": 885.8
+  },
+  {
+    "Duration": 102,
+    "Pulse": 67,
+    "Maxpulse": 188,
+    "Calories": 1280.2
+  },
+  {
+    "Duration": 49,
+    "Pulse": 81,
+    "Maxpulse": 134,
+    "Calories": 246.7
+  },
+  {
+    "Duration": 70,
+    "Pulse": 70,
+    "Maxpulse": 178,
+    "Calories": 706
+  },
+  {
+    "Duration": 107,
+    "Pulse": 76,
+    "Maxpulse": 184,
+    "Calories": 1202.6
+  },
+  {
+    "Duration": 37,
+    "Pulse": 92,
+    "Maxpulse": 133,
+    "Calories": 181.7
+  },
+  {
+    "Duration": 53,
+    "Pulse": 100,
+    "Maxpulse": 184,
+    "Calories": 472.2
+  },
+  {
+    "Duration": 40,
+    "Pulse": 69,
+    "Maxpulse": 167,
+    "Calories": 439
+  },
+  {
+    "Duration": 35,
+    "Pulse": 94,
+    "Maxpulse": 187,
+    "Calories": 275.5
+  },
+  {
+    "Duration": 91,
+    "Pulse": 80,
+    "Maxpulse": 182,
+    "Calories": 880.2
+  },
+  {
+    "Duration": 29,
+    "Pulse": 83,
+    "Maxpulse": 159,
+    "Calories": 200.4
+  },
+  {
+    "Duration": 22,
+    "Pulse": 75,
+    "Maxpulse": 192,
+    "Calories": 217.4
+  },
+  {
+    "Duration": 25,
+    "Pulse": 91,
+    "Maxpulse": 128,
+    "Calories": 139.5
+  },
+  {
+    "Duration": 83,
+    "Pulse": 68,
+    "Maxpulse": 136,
+    "Calories": 598.4
+  },
+  {
+    "Duration": 75,
+    "Pulse": 95,
+    "Maxpulse": 141,
+    "Calories": 328
+  },
+  {
+    "Duration": 82,
+    "Pulse": 98,
+    "Maxpulse": 174,
+    "Calories": 600.2
+  },
+  {
+    "Duration": 84,
+    "Pulse": 72,
+    "Maxpulse": 159,
+    "Calories": 731.8
+  },
+  {
+    "Duration": 100,
+    "Pulse": 83,
+    "Maxpulse": 176,
+    "Calories": 946
+  },
+  {
+    "Duration": 72,
+    "Pulse": 67,
+    "Maxpulse": 151,
+    "Calories": 582.8
+  },
+  {
+    "Duration": 23,
+    "Pulse": 81,
+    "Maxpulse": 122,
+    "Calories": 119.3
+  },
+  {
+    "Duration": 85,
+    "Pulse": 74,
+    "Maxpulse": 195,
+    "Calories": 1006.5
+  },
+  {
+    "Duration": 15,
+    "Pulse": 64,
+    "Maxpulse": 200,
+    "Calories": 161
+  },
+  {
+    "Duration": 44,
+    "Pulse": 64,
+    "Maxpulse": 124,
+    "Calories": 256
+  },
+  {
+    "Duration": 24,
+    "Pulse": 92,
+    "Maxpulse": 150,
+    "Calories": 124.2
+  },
+  {
+    "Duration": 100,
+    "Pulse": 91,
+    "Maxpulse": 147,
+    "Calories": 579
+  },
+  {
+    "Duration": 31,
+    "Pulse": 96,
+    "Maxpulse": 193,
+    "Calories": 310.7
+  },
+  {
+    "Duration": 46,
+    "Pulse": 90,
+    "Maxpulse": 172,
+    "Calories": 351.2
+  },
+  {
+    "Duration": 27,
+    "Pulse": 66,
+    "Maxpulse": 175,
+    "Calories": 289.3
+  },
+  {
+    "Duration": 69,
+    "Pulse": 86,
+    "Maxpulse": 179,
+    "Calories": 684.7
+  },
+  {
+    "Duration": 21,
+    "Pulse": 66,
+    "Maxpulse": 127,
+    "Calories": 129.1
+  },
+  {
+    "Duration": 108,
+    "Pulse": 81,
+    "Maxpulse": 133,
+    "Calories": 542.6
+  },
+  {
+    "Duration": 39,
+    "Pulse": 72,
+    "Maxpulse": 188,
+    "Calories": 459.4
+  },
+  {
+    "Duration": 32,
+    "Pulse": 87,
+    "Maxpulse": 143,
+    "Calories": 164.2
+  },
+  {
+    "Duration": 74,
+    "Pulse": 75,
+    "Maxpulse": 129,
+    "Calories": 405.6
+  },
+  {
+    "Duration": 118,
+    "Pulse": 95,
+    "Maxpulse": 132,
+    "Calories": 392.6
+  },
+  {
+    "Duration": 98,
+    "Pulse": 94,
+    "Maxpulse": 121,
+    "Calories": 225.6
+  },
+  {
+    "Duration": 111,
+    "Pulse": 75,
+    "Maxpulse": 141,
+    "Calories": 734.6
+  },
+  {
+    "Duration": 77,
+    "Pulse": 90,
+    "Maxpulse": 147,
+    "Calories": 439.9
+  },
+  {
+    "Duration": 22,
+    "Pulse": 70,
+    "Maxpulse": 168,
+    "Calories": 165.6
+  },
+  {
+    "Duration": 64,
+    "Pulse": 76,
+    "Maxpulse": 178,
+    "Calories": 638.8
+  },
+  {
+    "Duration": 69,
+    "Pulse": 95,
+    "Maxpulse": 182,
+    "Calories": 569.3
+  },
+  {
+    "Duration": 39,
+    "Pulse": 78,
+    "Maxpulse": 147,
+    "Calories": 226.1
+  },
+  {
+    "Duration": 89,
+    "Pulse": 94,
+    "Maxpulse": 127,
+    "Calories": 338.7
+  },
+  {
+    "Duration": 55,
+    "Pulse": 63,
+    "Maxpulse": 126,
+    "Calories": 370.5
+  },
+  {
+    "Duration": 76,
+    "Pulse": 92,
+    "Maxpulse": 187,
+    "Calories": 692
+  },
+  {
+    "Duration": 22,
+    "Pulse": 92,
+    "Maxpulse": 130,
+    "Calories": 56.6
+  },
+  {
+    "Duration": 23,
+    "Pulse": 98,
+    "Maxpulse": 128,
+    "Calories": 105
+  },
+  {
+    "Duration": 45,
+    "Pulse": 85,
+    "Maxpulse": 135,
+    "Calories": 247
+  },
+  {
+    "Duration": 46,
+    "Pulse": 97,
+    "Maxpulse": 196,
+    "Calories": 410.4
+  },
+  {
+    "Duration": 94,
+    "Pulse": 65,
+    "Maxpulse": 173,
+    "Calories": 1049.2
+  },
+  {
+    "Duration": 89,
+    "Pulse": 96,
+    "Maxpulse": 186,
+    "Calories": 791
+  },
+  {
+    "Duration": 48,
+    "Pulse": 73,
+    "Maxpulse": 160,
+    "Calories": 397.6
+  },
+  {
+    "Duration": 48,
+    "Pulse": 85,
+    "Maxpulse": 136,
+    "Calories": 279.8
+  },
+  {
+    "Duration": 97,
+    "Pulse": 79,
+    "Maxpulse": 178,
+    "Calories": 950.3
+  },
+  {
+    "Duration": 111,
+    "Pulse": 64,
+    "Maxpulse": 121,
+    "Calories": 640.7
+  },
+  {
+    "Duration": 94,
+    "Pulse": 96,
+    "Maxpulse": 132,
+    "Calories": 297.4
+  },
+  {
+    "Duration": 83,
+    "Pulse": 73,
+    "Maxpulse": 184,
+    "Calories": 904.3
+  },
+  {
+    "Duration": 31,
+    "Pulse": 82,
+    "Maxpulse": 128,
+    "Calories": 123.6
+  },
+  {
+    "Duration": 62,
+    "Pulse": 78,
+    "Maxpulse": 140,
+    "Calories": 390.4
+  },
+  {
+    "Duration": 84,
+    "Pulse": 79,
+    "Maxpulse": 198,
+    "Calories": 1032.6
+  },
+  {
+    "Duration": 82,
+    "Pulse": 60,
+    "Maxpulse": 190,
+    "Calories": 1054
+  },
+  {
+    "Duration": 99,
+    "Pulse": 66,
+    "Maxpulse": 137,
+    "Calories": 685.9
+  },
+  {
+    "Duration": 29,
+    "Pulse": 66,
+    "Maxpulse": 190,
+    "Calories": 328.6
+  },
+  {
+    "Duration": 49,
+    "Pulse": 78,
+    "Maxpulse": 197,
+    "Calories": 559.1
+  }
+]
