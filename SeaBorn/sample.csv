@@ -1,0 +1,206 @@
+Student_ID,Name,Age,Gender,Study_Hours,Sleep_Hours,Attendance_Percentage,Assignment_Completion,Internet_Usage_Hours,Social_Media_Hours,Exercise_Hours,Previous_Semester_Score,Final_Exam_Score,Course,City,Placement_Status,Skill_Level,Projects_Completed,Internship_Experience,Salary_Expectation
+72,Whitney Peters,25.0,Male,6.9,6.0,66.8,82.6,5.0,5.7,1.5,59.6,73.5,Computer Science,Pune,Yes,Advanced,5,No,13.16
+25,Matthew Foster,25.0,Male,7.0,8.9,84.3,65.6,6.7,4.9,2.2,50.4,77.7,AI & ML,Kochi,Yes,Advanced,6,No,18.32
+52,Danny Morgan,23.0,Female,4.1,8.2,63.6,49.0,4.1,4.1,0.8,30.0,35.5,Data Science,Chandigarh,Yes,Beginner,6,Yes,9.24
+163,Lindsey Walker,24.0,Female,8.2,6.4,74.9,61.9,1.0,2.7,1.4,56.8,75.3,AI & ML,Noida,Yes,Advanced,4,Yes,16.57
+98,Deborah Figueroa,21.0,Male,5.3,7.7,71.9,65.2,2.5,5.8,2.6,56.4,71.1,AI & ML,Bangalore,Yes,Advanced,6,Yes,17.11
+41,Paula Moreno,18.0,Male,5.2,5.7,80.5,56.7,4.7,3.3,1.0,55.7,60.0,Cyber Security,Pune,Yes,Advanced,6,No,13.11
+125,Helen Jones,19.0,Male,4.9,6.3,75.5,59.9,7.0,4.6,0.0,45.6,54.6,Data Science,Coimbatore,No,Advanced,4,No,13.37
+85,Zachary Ferrell,22.0,Male,7.0,5.6,79.4,75.0,8.3,5.8,0.6,49.0,75.4,Computer Science,Coimbatore,Yes,Advanced,9,No,15.4
+143,Patricia Rodriguez,20.0,Male,9.2,8.6,97.7,85.3,6.0,3.3,1.2,52.8,95.6,Data Science,Bangalore,Yes,Advanced,7,Yes,18.3
+132,Dustin Jordan,25.0,Male,5.6,5.8,75.0,71.7,6.9,2.4,1.7,60.9,82.4,AI & ML,Noida,Yes,Advanced,3,No,13.61
+134,Daniel Kennedy,18.0,Male,4.5,6.8,62.5,68.1,4.4,2.5,1.3,40.1,69.8,Computer Science,Kochi,Yes,Advanced,8,No,15.84
+168,Alyssa Day,25.0,Male,7.5,6.1,84.2,83.7,3.4,3.4,0.7,59.2,80.2,Computer Science,Lucknow,Yes,Advanced,8,No,14.62
+151,David Wright,18.0,Female,3.5,9.7,54.1,7.9,2.8,0.8,0.8,39.0,44.6,Data Science,Chandigarh,Yes,,3,No,8.56
+159,Melissa Gates,25.0,Male,4.4,7.6,66.5,43.6,2.6,0.2,1.8,33.2,30.9,AI & ML,Bhopal,No,Intermediate,4,Yes,8.89
+117,William Herrera,25.0,Female,5.0,5.4,60.1,43.2,6.7,5.0,2.0,,58.6,Computer Science,Kochi,No,Advanced,6,No,10.52
+157,Joshua Perry,25.0,Female,7.7,6.9,80.6,68.5,3.2,3.8,0.8,50.2,80.9,Data Science,Noida,Yes,Advanced,7,Yes,17.18
+87,Shirley Suarez,20.0,Female,6.0,6.2,72.2,55.1,2.7,4.2,1.1,30.0,47.9,AI & ML,Hyderabad,Yes,Advanced,5,No,16.31
+99,Jessica Smith,18.0,Male,6.2,8.8,73.3,48.2,5.3,3.8,0.3,52.8,61.9,AI & ML,Coimbatore,Yes,Advanced,5,Yes,16.37
+54,Mark Perez,23.0,Female,1.3,5.6,58.4,47.8,7.1,6.6,1.4,30.0,36.2,AI & ML,Ahmedabad,No,Beginner,3,No,6.53
+196,Allen Rosales,21.0,Male,6.2,5.6,74.5,68.6,7.8,7.2,2.1,44.9,58.6,Information Technology,Gurgaon,Yes,Advanced,5,No,12.72
+10,Ryan Munoz,23.0,Female,5.3,6.7,83.8,62.7,7.6,7.2,0.0,42.9,62.3,AI & ML,Bangalore,No,Advanced,4,No,13.38
+47,John Pierce,20.0,Male,9.2,7.0,79.9,56.6,3.0,4.7,0.0,47.8,79.0,Data Science,Chennai,Yes,Advanced,7,Yes,15.9
+183,Angela Vaughn,21.0,Female,8.8,6.0,83.2,,4.6,3.4,1.8,47.4,87.2,AI & ML,Delhi,Yes,Advanced,5,Yes,17.25
+50,Eric Carney,23.0,Male,5.2,6.8,69.5,59.6,4.2,3.6,2.3,57.3,58.4,AI & ML,Lucknow,No,Advanced,5,No,14.52
+51,Jessica Holmes,23.0,Female,5.7,7.8,83.3,75.4,8.8,4.2,0.3,44.7,76.0,Information Technology,Nagpur,Yes,Advanced,6,Yes,13.09
+67,Tracy House,25.0,Male,5.5,7.3,87.0,85.0,7.3,5.7,1.6,39.1,67.6,AI & ML,Patna,,Advanced,7,No,15.5
+111,Richard Rodriguez,18.0,Male,6.4,7.5,,68.3,8.7,5.6,1.4,50.4,68.5,Information Technology,Patna,Yes,Advanced,5,No,10.04
+178,Michael Wang,23.0,Male,7.9,1.5,69.9,57.1,4.4,5.1,1.9,50.6,56.3,Data Science,Chennai,Yes,Advanced,8,Yes,13.64
+45,Angelica Tucker,21.0,Male,6.4,9.7,65.2,52.1,4.7,5.7,0.8,53.6,68.5,AI & ML,Hyderabad,Yes,Advanced,3,No,15.21
+66,Amber Kidd,24.0,Female,5.7,6.6,65.1,62.7,7.7,4.0,2.3,42.0,71.3,Computer Science,Mumbai,Yes,Intermediate,2,Yes,10.85
+44,Anthony Humphrey,25.0,Female,5.8,,70.3,87.0,6.4,4.1,2.2,48.7,55.3,Computer Science,Bangalore,Yes,Advanced,5,No,9.9
+37,Sherri Baker,25.0,Male,4.3,6.2,46.9,57.1,2.4,4.2,0.4,58.4,51.9,Information Technology,Noida,No,Advanced,4,Yes,9.24
+81,Kelly Donovan,21.0,Female,6.3,8.6,75.7,72.6,3.4,0.1,1.6,54.0,72.7,Data Science,Hyderabad,Yes,Advanced,7,Yes,15.17
+64,Donald Wright,18.0,Male,5.2,6.9,62.7,52.8,9.4,8.0,0.9,42.3,54.3,AI & ML,Kochi,Yes,,4,,11.86
+93,Denise Jacobs,18.0,Female,3.3,7.2,63.4,54.9,,2.3,2.7,45.7,52.3,Cyber Security,Delhi,Yes,Advanced,6,Yes,13.02
+15,Dylan Miller,20.0,Male,5.3,7.0,46.2,51.7,3.8,3.3,2.1,47.7,46.4,Data Science,Hyderabad,,Advanced,5,No,12.91
+90,Aimee Montoya,22.0,Male,6.9,7.5,64.3,52.0,6.3,4.1,1.7,58.1,75.1,Data Science,Chennai,Yes,Advanced,7,Yes,17.96
+77,Angela Lopez,18.0,Female,6.3,8.2,,73.2,5.2,3.9,0.4,49.1,69.0,Computer Science,Delhi,Yes,Advanced,5,No,12.21
+173,Joshua Cooke,18.0,Male,5.4,8.2,64.1,57.5,3.9,0.9,0.0,40.3,72.8,Data Science,Chandigarh,Yes,Intermediate,4,No,13.03
+82,Mike Allen,23.0,Female,5.5,7.6,82.9,89.9,1.0,3.7,1.6,45.1,71.5,Information Technology,Kolkata,Yes,Advanced,7,Yes,13.11
+83,Michael Evans,22.0,Male,6.5,6.9,84.3,76.0,4.8,3.1,0.0,61.7,83.4,Cyber Security,Lucknow,,Advanced,7,Yes,16.79
+135,Rebecca Jackson,20.0,Female,3.4,7.0,73.8,50.5,5.1,7.3,1.1,41.1,40.9,Data Science,Bangalore,Yes,Advanced,7,Yes,13.3
+146,Joyce Solis,25.0,Male,6.6,8.2,71.7,26.7,7.6,5.0,1.9,50.7,47.2,AI & ML,Chennai,Yes,Advanced,5,Yes,13.84
+17,Holly Wood,22.0,Male,7.2,7.2,87.3,76.4,7.7,6.9,1.9,,68.1,Cyber Security,Chandigarh,Yes,Advanced,9,Yes,
+55,Shannon Jones,22.0,Female,4.5,4.8,68.5,60.9,1.9,2.1,0.6,45.3,65.4,Data Science,Ahmedabad,Yes,Advanced,6,Yes,15.56
+86,Daniel Baker,23.0,Male,4.0,6.7,70.0,53.0,6.4,4.8,0.8,39.2,43.8,AI & ML,Coimbatore,Yes,Intermediate,4,No,11.48
+107,Sharon Cherry,25.0,Male,7.2,6.4,88.9,65.7,2.4,4.4,2.0,40.8,66.8,Computer Science,Kolkata,Yes,Advanced,6,Yes,12.99
+73,Brittney Phillips,20.0,Male,4.7,7.7,59.5,57.9,4.6,4.5,1.1,39.2,70.4,Cyber Security,Coimbatore,Yes,Advanced,6,Yes,14.13
+162,Jennifer Adkins,20.0,Female,8.2,7.0,79.8,76.9,7.0,5.8,1.7,45.1,63.4,Computer Science,Chennai,,Advanced,8,Yes,14.84
+5,Cristian Santos,25.0,Male,14.5,9.0,,42.7,4.5,2.3,0.4,44.0,53.5,Computer Science,Nagpur,No,Beginner,0,No,4.59
+104,Christine Wright,25.0,Male,5.4,6.6,12.0,,1.5,0.2,0.1,44.7,64.8,AI & ML,Pune,Yes,Advanced,6,Yes,16.05
+91,Matthew Mcmillan,25.0,Male,3.7,7.0,53.4,43.9,4.5,4.9,0.4,44.6,12.0,AI & ML,Gurgaon,Yes,Advanced,5,Yes,14.35
+9,Gabrielle Davis,21.0,Female,4.9,6.5,61.5,42.0,6.5,4.6,1.1,39.6,50.9,AI & ML,Lucknow,Yes,Advanced,6,No,12.6
+200,Nathan Freeman,23.0,Female,4.6,8.0,44.8,0.0,3.1,3.6,0.5,46.7,34.7,Computer Science,Chandigarh,No,Beginner,0,,3.45
+150,Stephanie Manning,24.0,Male,4.2,6.5,55.6,51.4,7.5,4.9,0.2,42.9,39.9,Computer Science,Noida,No,Advanced,6,No,10.39
+7,Abigail Shaffer,23.0,Male,2.7,7.8,55.4,57.8,6.1,7.5,1.2,43.2,37.7,Information Technology,Coimbatore,No,Intermediate,4,No,7.52
+154,Devon Flores,21.0,Male,6.0,7.3,81.8,42.9,6.5,2.4,1.6,62.9,63.7,Data Science,Chandigarh,No,Advanced,6,No,14.83
+148,Stephanie Salazar,21.0,Male,5.8,9.2,68.8,52.4,3.2,2.2,1.5,46.4,63.6,Data Science,Noida,No,Intermediate,2,Yes,9.16
+127,Michelle Evans,20.0,Female,6.4,5.2,68.3,68.5,8.3,7.7,1.9,57.9,46.8,Computer Science,Nagpur,No,Advanced,7,Yes,9.83
+142,David Douglas Jr.,19.0,Male,6.5,5.0,88.8,62.9,2.0,3.1,1.3,55.5,77.9,Information Technology,Chandigarh,Yes,Advanced,6,No,15.16
+103,Rebecca Valencia,22.0,Male,6.0,7.1,89.4,77.6,4.0,4.8,3.0,50.1,77.4,Computer Science,Kochi,Yes,Advanced,6,Yes,13.08
+167,Alyssa Long,19.0,Male,4.8,8.4,71.0,46.3,5.0,5.6,1.1,42.2,54.1,AI & ML,Surat,Yes,Advanced,5,No,14.2
+31,Rebecca Henderson,18.0,Female,0.5,7.9,40.0,22.6,4.5,0.6,1.8,38.5,43.0,Data Science,Nagpur,Yes,Beginner,2,No,8.57
+175,Nicole Herring,24.0,Female,3.2,5.4,63.2,49.9,,4.5,1.2,55.9,41.6,AI & ML,Patna,Yes,Beginner,2,No,8.41
+176,Alex Hernandez,23.0,Male,3.9,8.9,66.8,61.7,8.6,6.2,0.6,49.6,61.3,Computer Science,Chandigarh,No,Intermediate,4,No,9.24
+58,Richard Aguirre,25.0,Male,5.7,4.4,69.3,60.0,7.8,4.7,1.2,57.4,78.7,AI & ML,Mumbai,Yes,Intermediate,4,Yes,16.23
+120,Jeffrey Chandler,19.0,Female,7.2,4.7,75.7,84.7,4.6,4.8,2.1,68.5,85.4,Computer Science,Chandigarh,Yes,Advanced,4,No,11.95
+190,Jessica Gross,22.0,Male,8.3,8.1,100.0,77.1,1.8,2.8,1.4,52.7,93.0,Computer Science,Patna,Yes,Advanced,8,Yes,17.03
+187,Jonathan Peterson,23.0,Female,7.6,8.7,84.0,70.9,4.1,3.3,1.6,,87.9,Information Technology,Coimbatore,Yes,Advanced,5,Yes,12.7
+116,Diana May,20.0,Female,3.4,8.2,52.3,23.3,5.7,5.0,1.2,35.4,30.0,Data Science,Pune,Yes,Beginner,1,No,7.95
+119,Victor Baker,,Female,6.0,5.5,67.7,57.6,4.8,0.0,0.0,50.0,74.2,Computer Science,Indore,Yes,Advanced,4,No,13.04
+68,Carol Tucker,18.0,Female,4.7,7.4,76.6,55.3,6.3,4.8,1.0,57.9,48.3,Data Science,Indore,Yes,Advanced,6,Yes,12.57
+16,Brian Ramirez,18.0,Male,3.6,6.1,65.1,77.3,6.3,6.0,0.6,44.6,39.0,Computer Science,Gurgaon,Yes,Beginner,2,Yes,6.39
+87,Shirley Suarez,20.0,Female,6.0,6.2,72.2,55.1,2.7,4.2,1.1,30.0,47.9,AI & ML,Hyderabad,Yes,Advanced,5,No,16.31
+180,Robert Oconnell,19.0,Male,4.0,7.7,57.5,39.7,1.6,2.8,0.7,49.8,68.0,Cyber Security,Jaipur,Yes,Beginner,2,No,10.3
+133,Mary Marshall,18.0,Male,7.8,,87.6,65.9,6.6,4.3,1.6,64.7,73.9,Computer Science,Chandigarh,Yes,Advanced,7,Yes,14.91
+34,Nathan Maldonado,25.0,Female,3.6,5.4,60.5,30.0,6.3,4.5,0.0,38.5,55.3,Cyber Security,Surat,Yes,Beginner,1,No,7.25
+71,Jordan Henderson,22.0,Female,4.8,6.8,73.7,68.4,3.2,4.2,2.0,45.4,55.5,Information Technology,Surat,Yes,Advanced,9,Yes,12.0
+191,Debra Morton,18.0,Male,7.4,6.4,87.4,51.3,7.0,4.5,2.2,53.7,68.8,AI & ML,Coimbatore,Yes,Intermediate,5,Yes,16.78
+75,Amy Silva,20.0,Female,6.5,7.0,74.3,58.8,6.5,5.6,0.1,46.4,67.4,Data Science,Pune,Yes,Advanced,7,No,16.16
+188,Samantha Garcia,20.0,Female,5.8,7.6,80.9,62.4,7.5,3.5,0.3,47.9,52.2,Information Technology,Ahmedabad,Yes,Advanced,8,No,12.93
+184,Ashley Barton,19.0,Female,4.7,8.1,53.0,45.9,12.0,5.5,1.1,46.8,52.9,Cyber Security,Kolkata,No,Advanced,5,No,10.73
+121,Larry Dixon,25.0,Female,8.0,7.5,72.6,53.3,3.1,2.2,0.6,54.0,78.9,Computer Science,Lucknow,Yes,Advanced,5,Yes,12.75
+113,Julia Torres,24.0,Female,2.0,8.3,71.3,72.3,3.7,2.1,1.6,,31.9,AI & ML,Ahmedabad,No,Advanced,4,No,6.44
+3,Angie Henderson,20.0,Female,10.0,5.8,84.9,90.6,4.6,3.4,0.8,67.8,80.7,Computer Science,Patna,Yes,Advanced,7,Yes,14.65
+62,Gerald Hensley,22.0,Male,5.6,8.0,85.0,85.1,5.4,2.1,1.1,44.7,59.7,Computer Science,Chandigarh,Yes,Advanced,6,Yes,13.32
+158,Jason Stein,23.0,Female,3.8,6.2,53.3,46.5,,6.1,1.5,49.6,58.2,Computer Science,Chandigarh,No,Intermediate,3,Yes,10.02
+19,Lisa Jackson,25.0,Male,3.8,,74.0,,5.7,5.1,0.7,49.2,49.7,Computer Science,Chandigarh,No,Beginner,2,No,6.62
+39,Elizabeth Fowler,24.0,Female,7.0,8.2,95.7,,7.6,4.7,0.4,62.9,82.8,Computer Science,Kolkata,Yes,Advanced,7,Yes,14.58
+137,Robert Potter,25.0,Male,3.4,6.5,67.9,56.8,1.6,2.8,1.1,48.6,44.6,Computer Science,Bhopal,Yes,Advanced,6,Yes,11.7
+172,Darlene Miller,20.0,Male,7.1,7.8,68.7,47.9,3.2,1.0,1.0,,58.7,Data Science,Chandigarh,Yes,Advanced,6,No,13.01
+27,Justin Baker,18.0,Male,5.4,6.1,77.8,55.7,7.8,3.6,1.4,53.6,39.7,Computer Science,Ahmedabad,No,Advanced,6,No,8.54
+136,Jose Schultz,23.0,Male,4.3,5.9,85.8,79.7,6.1,4.2,1.1,39.0,42.2,Data Science,Pune,Yes,Advanced,6,No,12.88
+11,Monica Herrera,20.0,Male,3.7,6.4,74.8,49.2,5.4,4.0,0.8,47.2,73.7,Cyber Security,Noida,No,Advanced,7,Yes,13.01
+26,Judy Baker,22.0,Female,3.4,7.6,64.8,50.2,5.8,6.3,1.0,51.2,46.2,Computer Science,Hyderabad,No,Intermediate,5,Yes,8.23
+112,Shannon Walker,19.0,Male,6.5,8.4,67.1,46.0,4.0,5.3,1.0,47.8,54.4,Cyber Security,Mumbai,Yes,Advanced,4,Yes,11.05
+14,Michele Williams,18.0,Male,5.8,5.5,66.5,56.7,3.6,4.1,0.5,56.6,65.8,Data Science,Ahmedabad,Yes,Advanced,6,No,16.15
+179,Lawrence Adkins,19.0,Female,7.2,8.5,77.4,84.8,4.4,3.0,0.1,43.2,77.9,Cyber Security,Jaipur,Yes,Advanced,4,No,13.8
+160,Jamie Smith,23.0,Female,5.6,6.2,78.3,36.8,1.0,2.6,1.7,55.9,55.8,Computer Science,Mumbai,Yes,Advanced,4,No,11.06
+145,Amber Wright,18.0,Male,6.9,6.1,74.7,64.1,1.4,1.7,2.0,41.1,61.2,AI & ML,Kochi,Yes,Advanced,4,No,12.65
+59,Brent Jordan,20.0,Male,5.2,7.5,67.0,63.1,3.8,4.4,1.6,50.6,77.3,AI & ML,Indore,Yes,Advanced,4,Yes,16.16
+139,David Alvarez,22.0,Male,5.5,6.8,,57.8,6.7,4.8,1.6,56.6,63.9,AI & ML,Surat,Yes,Advanced,6,No,15.59
+65,Jessica Callahan,21.0,Male,5.4,8.1,83.2,68.3,9.5,4.3,1.0,58.4,73.2,AI & ML,Surat,Yes,Advanced,6,Yes,14.45
+144,Christopher Rubio,19.0,Male,1.9,6.9,52.1,18.1,4.9,2.0,0.9,63.3,63.3,Data Science,Bangalore,,Advanced,3,No,9.14
+122,Kenneth Scott,24.0,Female,5.6,7.9,78.5,72.1,3.2,0.5,0.7,51.1,54.2,Computer Science,Bangalore,Yes,Advanced,3,No,10.53
+53,Crystal Robinson,23.0,Female,7.4,5.9,,99.9,5.5,2.4,1.2,55.2,75.2,Cyber Security,Kochi,Yes,Advanced,8,Yes,16.33
+174,Matthew Harrington,19.0,Male,8.5,5.9,75.5,71.2,2.9,0.8,1.3,56.6,91.1,Data Science,Patna,Yes,Advanced,6,No,16.73
+35,Debra Davidson,21.0,Female,8.3,6.7,85.8,86.4,8.7,4.0,1.9,37.1,53.9,Cyber Security,Bangalore,Yes,Advanced,5,No,11.23
+79,Steve Sanchez,18.0,Male,5.5,6.9,71.4,48.0,2.5,4.7,2.4,43.3,53.3,Computer Science,Bhopal,No,Advanced,4,No,11.56
+49,Joshua Blair,24.0,Female,5.5,7.1,78.6,90.9,6.6,5.2,1.9,48.7,48.8,AI & ML,Indore,No,Advanced,4,Yes,12.5
+57,Timothy Duncan,23.0,Male,7.8,5.5,80.2,68.1,1.6,3.1,0.9,47.6,66.4,Cyber Security,Nagpur,Yes,,5,Yes,14.7
+195,John Bishop,21.0,Male,3.1,9.6,74.8,40.3,4.0,2.0,2.5,57.0,63.1,Computer Science,Patna,Yes,Intermediate,3,No,8.8
+185,Lindsay Martinez,23.0,Male,7.6,6.9,89.1,72.7,5.7,1.0,1.0,53.5,82.4,AI & ML,Hyderabad,Yes,Advanced,6,Yes,18.51
+118,Ashley Waller,23.0,Male,4.5,6.8,58.8,55.4,7.7,6.6,1.2,33.0,40.3,Data Science,Gurgaon,Yes,Advanced,3,No,10.88
+70,William Baker,21.0,Female,7.0,8.1,74.6,41.2,3.8,4.2,1.0,39.3,49.5,AI & ML,Patna,Yes,Beginner,0,No,10.83
+140,Angel Perry,19.0,Female,8.1,8.9,72.3,54.9,2.2,5.4,0.0,49.7,62.0,Computer Science,Hyderabad,Yes,Advanced,6,Yes,13.72
+129,Cameron Fisher,19.0,Male,6.5,6.9,72.5,72.7,5.0,6.4,1.2,40.7,49.3,Computer Science,Bangalore,No,Advanced,2,No,8.45
+138,Courtney Gonzalez,24.0,Female,4.1,6.0,78.5,,3.8,4.4,2.0,49.2,65.4,Computer Science,Patna,Yes,Intermediate,5,Yes,12.45
+29,Zachary Hicks,18.0,Female,6.6,7.6,58.4,43.1,,5.9,1.1,50.4,62.2,Cyber Security,Chennai,Yes,Beginner,5,Yes,11.16
+8,Gina Moore,25.0,Female,6.5,8.9,70.1,,6.6,3.0,1.1,39.6,68.9,AI & ML,Gurgaon,Yes,Advanced,7,,18.65
+4,Daniel Wagner,18.0,Female,6.4,8.9,65.1,69.2,5.6,3.6,1.5,74.4,84.2,AI & ML,Mumbai,Yes,Advanced,8,No,19.02
+33,Tricia Valencia,22.0,Male,5.0,7.2,63.8,43.4,,5.4,2.1,49.0,61.0,Information Technology,Gurgaon,Yes,Advanced,4,No,10.75
+38,Cassandra Gaines,25.0,Male,5.0,8.5,81.7,84.4,6.0,5.2,0.9,56.2,66.6,Data Science,Indore,Yes,Advanced,5,Yes,15.43
+128,Jason Powell,19.0,Female,3.9,7.3,69.3,47.9,4.4,5.7,1.4,48.6,56.1,Computer Science,Surat,No,Advanced,3,Yes,9.4
+43,Sherry Decker,18.0,Male,6.1,8.4,51.3,39.0,3.3,5.7,2.1,38.5,38.5,Data Science,Kochi,No,Advanced,5,Yes,10.28
+24,Tommy Walter,20.0,Male,3.9,5.6,67.6,40.2,,2.0,0.7,41.3,54.6,Computer Science,Coimbatore,,Advanced,3,No,10.48
+102,Cameron Parker,22.0,Female,3.2,8.9,52.0,15.5,4.7,3.4,1.1,51.4,43.0,Information Technology,Patna,No,Advanced,4,No,8.26
+92,Brian Rodriguez,22.0,Female,8.9,7.4,98.1,81.0,2.9,4.1,1.4,56.4,100.0,AI & ML,Indore,Yes,Advanced,6,Yes,20.15
+149,Kathy Rivas,19.0,Male,4.8,7.8,65.1,52.2,5.4,2.1,0.5,44.7,47.1,Cyber Security,Hyderabad,Yes,Intermediate,4,Yes,10.05
+88,Christopher Bass,21.0,Female,6.2,6.7,70.2,56.1,9.1,5.0,0.9,46.3,49.7,Computer Science,Pune,No,Advanced,6,Yes,
+193,Debra Christian,22.0,Female,8.2,5.6,74.7,89.1,9.1,5.9,0.0,45.4,55.3,Information Technology,Bhopal,No,Advanced,5,No,9.1
+101,Sandra Aguilar,24.0,Male,5.5,6.7,75.8,37.8,5.7,4.3,0.9,54.7,47.2,Information Technology,Bhopal,Yes,Advanced,7,No,12.39
+153,Denise Jones,22.0,Male,4.7,7.9,68.8,43.1,5.9,4.5,1.9,30.0,46.8,Information Technology,Lucknow,Yes,Intermediate,2,No,7.35
+95,John Whitehead,22.0,Female,5.1,5.9,83.3,67.4,9.1,4.9,0.0,44.3,49.9,AI & ML,Delhi,No,Advanced,7,No,11.74
+166,John Anderson,19.0,Female,6.1,5.8,90.4,86.5,9.5,4.6,0.6,55.0,63.4,Data Science,Hyderabad,Yes,,7,Yes,13.66
+32,James Ferrell,23.0,Male,4.4,5.9,57.6,62.5,20.0,2.3,0.0,44.6,44.7,Computer Science,Kolkata,No,Intermediate,1,No,8.05
+94,Christina Walters,23.0,Female,1.8,,58.6,15.5,7.4,6.6,0.6,46.0,43.1,Cyber Security,Ahmedabad,No,Beginner,2,No,7.11
+46,Philip Cannon,20.0,Female,5.1,7.5,79.7,48.7,5.9,6.7,1.1,54.0,48.2,Information Technology,Lucknow,Yes,Advanced,3,No,11.0
+109,Evelyn Galvan,,Male,5.4,7.2,49.5,25.2,4.9,3.8,1.4,47.0,58.0,Data Science,Nagpur,Yes,Intermediate,3,No,13.93
+106,Marc Moore,18.0,Male,4.6,6.7,76.4,,3.8,1.9,1.5,60.9,67.7,Data Science,Ahmedabad,Yes,Advanced,3,No,14.05
+30,Anthony Rodriguez,21.0,Male,5.5,7.1,67.0,34.7,2.3,2.7,1.8,48.6,62.2,Data Science,Kochi,No,Intermediate,1,Yes,10.56
+110,Sharon Cochran,19.0,Male,4.5,7.0,64.3,71.2,8.9,5.3,0.9,49.7,61.2,Cyber Security,Pune,Yes,Advanced,7,Yes,15.56
+123,April Frost,23.0,Male,5.9,6.3,64.3,54.3,4.5,4.6,0.8,38.6,66.4,Cyber Security,Nagpur,Yes,Advanced,7,Yes,14.12
+182,Tina Sanders,18.0,Male,5.8,9.6,85.9,67.7,4.8,5.3,0.5,50.3,56.7,AI & ML,Noida,Yes,Advanced,8,Yes,16.39
+105,Richard Henson,24.0,Female,3.4,6.3,65.8,28.6,6.1,2.9,1.4,47.1,55.2,Data Science,Bhopal,Yes,Advanced,5,No,
+61,Victoria Garcia,19.0,Male,4.8,,57.7,60.0,3.8,4.8,0.9,50.9,57.4,Information Technology,Indore,Yes,Advanced,5,,10.79
+147,Victoria Larson,22.0,Female,6.6,6.2,92.7,70.9,3.4,2.7,0.7,76.0,81.4,Data Science,Lucknow,Yes,Advanced,6,No,18.23
+84,Paul Jones,23.0,Male,6.4,5.4,80.7,59.7,4.7,3.8,0.8,45.4,68.9,Data Science,Kolkata,Yes,Advanced,5,,16.19
+23,Ethan Adams,23.0,Male,2.9,8.6,77.1,49.4,6.2,5.0,1.9,30.8,31.2,Computer Science,Mumbai,No,Intermediate,2,No,4.94
+126,Erin Edwards,24.0,Male,4.6,7.5,70.5,56.9,3.2,4.7,3.0,44.8,56.7,Computer Science,Kochi,Yes,Advanced,7,No,13.72
+156,Michelle Brown,25.0,Male,6.9,8.8,93.8,98.2,4.2,2.5,1.6,56.3,71.9,Computer Science,Kochi,Yes,Advanced,7,Yes,12.31
+171,Jamie Walton,23.0,Female,6.5,8.3,72.7,56.6,3.6,2.4,0.6,55.8,63.9,AI & ML,Bhopal,Yes,Advanced,5,No,15.12
+197,Daniel Salinas,22.0,Female,6.9,6.6,78.9,81.3,5.1,3.9,1.3,39.1,76.7,AI & ML,Patna,Yes,Advanced,8,Yes,17.97
+1,Allison Hill,25.0,Male,5.2,6.9,71.1,43.2,6.9,3.8,1.9,,41.8,Information Technology,Surat,Yes,Advanced,5,Yes,10.7
+164,Jeffrey Johnson,24.0,Female,4.3,7.3,75.5,44.2,2.8,2.0,1.9,42.6,40.9,Information Technology,Indore,Yes,Advanced,5,No,8.97
+165,Michael Powell,21.0,Male,3.0,5.5,54.9,51.1,6.4,4.1,1.2,44.8,38.3,Computer Science,Patna,No,Beginner,2,No,7.08
+89,Lisa Archer,18.0,Female,3.7,7.1,75.2,71.5,7.7,5.8,0.0,67.5,69.1,Data Science,Gurgaon,Yes,Advanced,6,No,15.08
+78,Megan Young,25.0,Male,4.3,7.6,83.1,80.9,8.3,3.8,1.3,53.2,74.1,Computer Science,Nagpur,Yes,Advanced,7,Yes,12.52
+13,Lisa Hensley,23.0,Female,2.4,6.3,58.2,38.1,5.9,2.8,1.3,38.0,58.3,Data Science,Bhopal,Yes,Beginner,3,Yes,10.79
+124,Michelle Harmon,,Male,3.7,4.0,82.6,53.9,5.8,6.4,2.2,37.9,51.6,Cyber Security,Bangalore,No,Advanced,5,No,10.73
+42,Fred Smith,25.0,Male,7.1,6.5,69.1,46.2,5.0,2.6,1.7,51.6,67.1,Cyber Security,Surat,Yes,Intermediate,3,No,9.24
+114,Crystal Johnson,23.0,Female,4.9,5.2,68.5,45.4,6.0,4.8,0.9,61.5,72.7,Data Science,Chandigarh,Yes,Advanced,5,Yes,14.02
+96,Anna Henderson,24.0,Male,6.6,6.7,82.3,73.7,8.4,6.6,1.0,59.6,66.9,Information Technology,Chennai,Yes,Advanced,5,No,10.67
+12,Jamie Arnold,25.0,Female,6.5,5.7,68.6,75.0,2.1,3.5,1.3,54.7,54.4,Computer Science,Bangalore,Yes,Advanced,6,No,12.39
+115,Garrett Lin,19.0,Female,4.3,4.0,59.2,11.6,2.8,4.6,1.5,30.0,34.1,Computer Science,Delhi,No,Beginner,1,No,4.54
+76,Sarah Moore,25.0,Female,3.7,7.1,79.8,55.8,7.1,7.7,0.4,48.7,50.4,AI & ML,Bangalore,No,Intermediate,2,No,10.22
+2,Noah Rhodes,21.0,Female,5.5,10.0,62.2,34.8,3.7,5.0,1.4,49.5,63.7,Computer Science,Nagpur,Yes,Advanced,5,No,12.81
+97,Aaron Wise,20.0,Female,6.6,5.5,73.8,86.7,3.9,4.1,2.0,57.6,79.9,Information Technology,Pune,Yes,Advanced,6,Yes,14.46
+189,Madison Poole,21.0,Female,7.2,7.5,87.9,96.6,5.2,3.9,1.2,55.7,88.9,AI & ML,Indore,Yes,Advanced,6,Yes,18.77
+6,Connie Lawrence,21.0,Male,4.1,6.4,74.3,45.6,8.5,6.0,1.3,,41.7,Cyber Security,Nagpur,Yes,Advanced,3,No,11.6
+155,Brenda Hall,18.0,Female,5.4,8.5,81.7,81.2,5.4,3.7,1.7,39.6,60.1,Data Science,Gurgaon,Yes,Advanced,4,No,15.87
+23,Ethan Adams,23.0,Male,2.9,8.6,77.1,49.4,6.2,5.0,1.9,30.8,31.2,Computer Science,Mumbai,No,Intermediate,2,No,4.94
+20,Carla Gray,23.0,Male,7.8,7.9,89.6,63.5,8.7,6.0,2.4,44.8,82.7,Information Technology,Mumbai,Yes,Advanced,7,Yes,10.84
+100,Stephen Mckee,21.0,Male,2.4,8.6,55.5,65.7,1.1,1.9,1.5,46.1,49.0,Data Science,Chennai,No,Intermediate,4,No,7.41
+170,Daniel Murphy,24.0,Female,3.6,7.7,62.0,58.0,8.0,5.1,1.1,44.1,51.6,Computer Science,Pune,Yes,Beginner,3,Yes,8.48
+22,Patty Perez,19.0,Male,7.4,7.3,73.3,88.4,10.7,5.8,1.8,50.0,69.7,Computer Science,Jaipur,Yes,Advanced,7,Yes,13.42
+161,Paul Castaneda,21.0,Male,4.3,9.4,61.1,30.6,6.0,4.1,2.0,59.3,42.3,Data Science,Chennai,Yes,Beginner,2,Yes,7.07
+74,Lauren Daniels,21.0,Female,5.1,5.9,77.8,58.2,4.0,3.2,1.5,63.5,99.6,AI & ML,Bangalore,Yes,Advanced,3,Yes,17.71
+18,Derek Zuniga,19.0,Female,4.8,5.1,81.3,55.4,5.0,7.9,1.5,49.1,64.5,Computer Science,Chandigarh,No,Advanced,7,No,11.65
+199,Adam Vaughan,21.0,Female,2.0,7.5,49.8,32.8,6.1,5.5,1.8,37.2,40.5,Information Technology,Delhi,No,Beginner,2,No,5.64
+63,Connor West,23.0,Female,7.7,7.0,80.0,79.8,8.4,5.5,1.1,57.9,67.0,Cyber Security,Coimbatore,Yes,Advanced,6,No,14.26
+28,Stephanie Ross,21.0,Male,5.1,6.9,78.3,76.8,6.5,6.3,1.4,52.4,64.6,AI & ML,Jaipur,No,Advanced,5,No,13.71
+48,Shane Henderson,23.0,Female,6.3,6.6,78.0,65.0,4.0,3.0,0.6,44.7,69.9,Data Science,Lucknow,Yes,Advanced,5,No,17.15
+80,Lisa Barnes,21.0,Male,6.9,7.9,81.8,76.7,4.6,3.6,2.8,53.1,90.1,Computer Science,Nagpur,Yes,Advanced,7,No,16.28
+40,Brittany Farmer,20.0,Male,1.0,7.9,41.7,21.4,3.7,2.9,1.0,53.4,35.2,Data Science,Jaipur,No,Beginner,3,No,8.26
+192,Karen Graham,25.0,Female,8.3,5.8,78.5,100.0,3.5,2.4,0.3,52.9,80.1,Cyber Security,Surat,Yes,Advanced,7,No,13.83
+21,Margaret Hawkins DDS,19.0,Female,7.1,4.5,90.5,82.3,5.5,4.5,0.4,,60.7,Cyber Security,Surat,Yes,Advanced,8,Yes,15.09
+121,Larry Dixon,25.0,Female,8.0,7.5,72.6,53.3,3.1,2.2,0.6,54.0,78.9,Computer Science,Lucknow,Yes,Advanced,5,Yes,12.75
+141,Cheyenne Horton,24.0,Female,7.7,5.2,91.0,90.7,5.6,3.3,1.7,53.7,81.5,Computer Science,Coimbatore,Yes,Advanced,7,No,15.07
+131,Elizabeth Kelley,18.0,Male,6.4,7.1,90.8,56.5,1.0,2.5,1.6,53.5,56.6,Computer Science,Chandigarh,No,Advanced,3,No,9.97
+108,Sierra Johnson,20.0,Female,4.1,7.2,74.3,38.9,1.0,5.0,1.3,34.2,40.1,Information Technology,Ahmedabad,No,Advanced,5,No,9.86
+60,John Daniel,20.0,Male,6.6,9.9,76.1,54.2,10.6,5.5,1.2,48.2,72.0,Data Science,Lucknow,No,Advanced,4,No,10.5
+177,Michael Elliott,22.0,Female,3.6,6.7,82.9,71.5,5.7,1.9,1.7,48.0,68.6,Cyber Security,Indore,Yes,Intermediate,3,No,8.87
+194,Angelica Keith,21.0,Female,6.7,4.6,96.6,84.0,7.4,5.6,1.3,64.6,84.1,Computer Science,Bhopal,Yes,Advanced,6,No,15.17
+56,Michael Lewis,20.0,Female,5.0,7.6,74.7,60.6,,2.8,1.5,51.5,61.0,Computer Science,Ahmedabad,Yes,Advanced,6,Yes,12.54
+12,Jamie Arnold,25.0,Female,6.5,5.7,68.6,75.0,2.1,3.5,1.3,54.7,54.4,Computer Science,Bangalore,Yes,Advanced,6,No,12.39
+152,Pamela Boyd,21.0,Male,7.4,6.2,71.5,46.4,5.1,5.2,1.8,56.9,67.4,AI & ML,Mumbai,Yes,Intermediate,2,No,12.1
+196,Allen Rosales,21.0,Male,6.2,5.6,74.5,68.6,7.8,7.2,2.1,44.9,58.6,Information Technology,Gurgaon,Yes,Advanced,5,No,12.72
+181,Alexander Collins,23.0,Male,3.8,7.6,68.2,57.8,6.9,7.2,0.7,46.8,39.3,Cyber Security,Lucknow,,Beginner,2,No,7.65
+198,Spencer Haynes,24.0,Female,4.5,6.7,52.5,13.2,6.9,4.8,0.9,48.7,43.7,Data Science,Kochi,Yes,Intermediate,5,Yes,12.42
+69,James Brown,22.0,Male,5.5,6.2,59.7,46.9,6.7,5.2,1.7,47.5,65.2,Computer Science,Noida,Yes,Intermediate,5,No,12.09
+169,Joel Williams,24.0,Male,4.3,5.8,63.6,47.8,4.6,6.7,0.7,54.3,46.6,Cyber Security,Gurgaon,No,,3,No,9.06
+186,Dr. Hannah Patterson,24.0,Female,6.5,7.2,79.9,51.2,3.3,2.3,0.0,50.0,70.4,Computer Science,Delhi,Yes,Advanced,5,No,13.41
+36,Jeffrey Chavez,25.0,Female,4.5,5.9,69.7,36.5,5.9,3.6,2.0,42.0,55.4,Cyber Security,Chennai,No,Intermediate,4,No,45.0
+130,Megan Orr,19.0,Male,9.9,7.5,87.8,98.5,3.4,4.5,1.4,57.7,74.2,Information Technology,Gurgaon,Yes,Advanced,10,Yes,13.78
